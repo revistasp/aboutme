@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/buymeacoffee-yellow)](https://google.com)
+[![](https://img.shields.io/badge/buymeacoffee-yellow)](https://www.buymeacoffee.com/revistasp)
 [![](https://img.shields.io/badge/mastodon-6364ff)](https://google.com)
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://google.com)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://google.com)
